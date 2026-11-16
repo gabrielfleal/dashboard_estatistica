@@ -147,7 +147,7 @@ st.set_page_config(
 )
 
 st.title("IA003 — Anúncios de estadia em Airbnb na cidade de São Paulo")
-st.caption("Uma interface de exploração dos anúncios de Airbnb em São Paulo, com Streamlit.")
+st.caption("Uma interface de exploração dos anúncios de Airbnb em São Paulo, com Streamlit. Por Gabriel Leal")
 
 
 tab1, tab2, tab3 = st.tabs(["Análise descritiva da população", "Análise descritiva da amostra", "Inferência estatística e comparação dos resultados"])
